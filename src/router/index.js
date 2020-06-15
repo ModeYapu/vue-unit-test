@@ -24,6 +24,11 @@ const routes = [
     name: "Layout",
     component: () => import("../views/Layout.vue"),
   },
+  {
+    path: "/grid",
+    name: "Grid",
+    component: () => import("../views/Grid.vue"),
+  },
 ];
 
 const router = new VueRouter({
