@@ -1,5 +1,6 @@
 <template>
   <div class="page">
+    <p>新的几个时间</p>
     <div class="wrapper">
       <div class="one">One</div>
       <div class="two">Two</div>
